@@ -191,7 +191,6 @@ class MyFrame:
 		for shape in self.shapes:
 			shape.draw(self.canvas)
 
-
 def main():
 	cm = CalMatrix()
 	cm.do("0551283_1.ini")
